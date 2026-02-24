@@ -4,7 +4,7 @@
 
 Freshly graduated CS Engineer (B.Eng.) focused on **Data Engineering** and **Automations**. I enjoy building reliable data pipelines and exploring how **LLMs** can be used to analyze and process information more efficiently.
 
-** Highlights:**
+### Highlights:
 * **Thesis:** ML predictive system for early Type 2 Diabetes detection.
 * **Analytics:** End-to-end statistical analysis, clustering, and regression modeling.
 * **Focus:** Mastering Python & SQL for complex Data Analytics, with a growing toolkit in Big Data.
